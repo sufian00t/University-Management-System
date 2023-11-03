@@ -1,0 +1,18 @@
+Name : rupok
+Faculty Id : 1597
+Salary : 50000.0
+Name : Rupok
+Faculty Id : 20306265
+Salary : 5000.0
+Name : hjhjhjh
+Faculty Id : kkkkk
+Salary : 50000.0
+Name : dasjdashdasjdasj
+Faculty Id : dasjdhsjd
+Salary : 5000.0
+Name : jsdfasjdhasjd
+Faculty Id : asjdhasjdhasd
+Salary : 5000000.0
+Name : rupok
+Faculty Id : sadasdas
+Salary : 5000.0
